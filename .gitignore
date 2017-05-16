@@ -1,2 +1,5 @@
 kaggle-dogs-cats-dataset
 kaggle-dogs-cats-dataset-reduced
+.idea
+.ipynb_checkpoints
+*.h5
